@@ -4,9 +4,11 @@
 ---
 
 🎯 **About Me**
+
 I’m a passionate Web Application Security & DevSecOps enthusiast focused on identifying real-world vulnerabilities, securing CI/CD pipelines, and implementing security across the Secure Software Development Life Cycle (SSDLC).
 
 I enjoy breaking applications ethically, automating security checks, and helping teams build secure-by-design systems.
+
 ---
 
 🛠️ **What I Work On**
