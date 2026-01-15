@@ -51,7 +51,7 @@ I enjoy breaking applications ethically, automating security checks, and helping
 📬 **Let's Connect**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shivkumar99228/)  
 - 🐦 [Twitter](https://x.com/Shivkumar_032)  
-- ✉️ Email: shivydv442@gmail.com
+- ✉️ shivydv442@gmail.com
 
 ---
 
