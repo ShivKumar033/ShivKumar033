@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Shiv</h1>
-<h2 align="center">Web Application Security | Penetration Tester | DevSecOps Security</h2>
+<h2 align="center">Web Application Security | DevSecOps Security</h2>
 
 ---
 
@@ -13,7 +13,6 @@ I enjoy breaking applications ethically to uncover critical flaws, Automating se
 
 🛠️ **What I Work On**
 - 🔍 **Web Application Penetration Testing:** (XSS, IDOR, CSRF, SSRF, RCE, SQL Injection, Business Logic Issues)
-- 🎯 **Bug Bounty Hunting on real-world targets:** (Hands-on experience with real-world targets and responsible disclosure)
 - 🔐 **DevSecOps & CI/CD Security:** (Pipeline hardening, security automation, and shift-left practices)
 - 🔁 **Secure SDLC Implementation & Shift-Left Security:** (Threat modeling, secure code reviews, and risk assessment)
 - 📦 **Dependency & Supply Chain Security:** (Identifying risks in third-party libraries and integrations)
