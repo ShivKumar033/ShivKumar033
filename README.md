@@ -33,9 +33,7 @@ I enjoy breaking applications ethically to uncover critical flaws, Automating se
 ---
 
 🧪 **Ongoing Projects**
-- 🔧 CollaboratorX – Custom Burp Extension for DNS/HTTP Callback Detection
-- 🔐 CI/CD Security Lab – Vulnerable pipelines with DevSecOps fixes
-- 🕸️ Vulnerable Web App (Practice Lab) – Focused on business logic flaws and access control vulnerabilities
+- .......................
 
 ---
 
